@@ -15,6 +15,8 @@ description: 用 OVITO Python 渲染原子、晶体、催化表面与负载颗�
 
 本包在 Python 3.12、OVITO 3.16.0、ASE 3.26.0 上验证。使用项目隔离环境或已有 `ovitos`；依赖见 `assets/requirements.txt`。不因文档示例声称支持某格式而跳过实际导入检查。
 
+Agent 刚完成结构建模、需要先做交互检查再决定是否出论文图时，按[构模后检查与出图](references/post-model-visualization.md)选择 MatterViz 或 OVITO。
+
 ## 使用附带脚本
 
 ```bash
